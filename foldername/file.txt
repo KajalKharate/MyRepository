@@ -1,0 +1,2 @@
+add / after foldername then file name
+repository/foldername/filename
